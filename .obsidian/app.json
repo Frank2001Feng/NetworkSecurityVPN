@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
+}

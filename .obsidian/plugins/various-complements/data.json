@@ -1,0 +1,851 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "123456789": {
+      "123456789": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681638266176
+        }
+      }
+    },
+    "brief": {
+      "brief": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680968242133
+        }
+      }
+    },
+    "缺省路由通过OSPF发布到内网中": {
+      "缺省路由通过OSPF发布到内网中": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680768685229
+        }
+      }
+    },
+    "routing-table": {
+      "routing-table": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680968258009
+        }
+      }
+    },
+    "人为采样的指纹库": {
+      "人为采样的指纹库": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679838765649
+        }
+      }
+    },
+    "属性，配置ip，子网掩码DNS服务器，地址选择WLAN中的DNS服务器ip地址，否则无法打开网页。双击WLAN-": {
+      "属性，配置ip，子网掩码DNS服务器，地址选择WLAN中的DNS服务器ip地址，否则无法打开网页。双击WLAN-": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679897090778
+        }
+      }
+    },
+    "VPN Tunnel": {
+      "VPN Tunnel": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680785796668
+        }
+      }
+    },
+    "tunnel": {
+      "tunnel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679906089218
+        }
+      }
+    },
+    "写在这里的话，怕被别人看到，又没人能看到，": {
+      "写在这里的话，怕被别人看到，又没人能看到，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679924457788
+        }
+      }
+    },
+    "充满了对未来不确定的一种恐惧，": {
+      "充满了对未来不确定的一种恐惧，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679924569538
+        }
+      }
+    },
+    "秋后的蚂蚱——蹦不了几天了": {
+      "秋后的蚂蚱——蹦不了几天了": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679927253114
+        }
+      }
+    },
+    "你很有可能会问我喜欢你什么，我也时常会这样问自己，": {
+      "你很有可能会问我喜欢你什么，我也时常会这样问自己，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679928998221
+        }
+      }
+    },
+    "洗澡，吃水果，享受": {
+      "洗澡，吃水果，享受": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679931426560
+        }
+      }
+    },
+    "booking": {
+      "booking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679979666259
+        }
+      }
+    },
+    "BeanUtils": {
+      "BeanUtils": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679980987639
+        }
+      }
+    },
+    "的一个客户端": {
+      "的一个客户端": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679981182406
+        }
+      }
+    },
+    "register": {
+      "register": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679981740689
+        }
+      }
+    },
+    "算法设计：": {
+      "算法设计：": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680056417943
+        }
+      }
+    },
+    "设计代码：": {
+      "设计代码：": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1680003631340
+        }
+      }
+    },
+    "状态转移方程：": {
+      "状态转移方程：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679996084172
+        }
+      }
+    },
+    "isSubStructure": {
+      "isSubStructure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680055851443
+        }
+      }
+    },
+    "TreeNode": {
+      "TreeNode": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680055962911
+        }
+      }
+    },
+    "NULL&&B": {
+      "NULL&&B": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1680057334662
+        }
+      }
+    },
+    "    }": {
+      "    }": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680058039695
+        }
+      }
+    },
+    "forwarding": {
+      "forwarding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680230936858
+        }
+      }
+    },
+    "iptables": {
+      "iptables": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680253054350
+        }
+      }
+    },
+    "python": {
+      "python": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680254667663
+        }
+      }
+    },
+    "B1_B2_socks_client": {
+      "B1_B2_socks_client": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680337208133
+        }
+      }
+    },
+    "进入具体用户界面用户": {
+      "进入具体用户界面用户": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680435344858
+        }
+      }
+    },
+    "online_data": {
+      "online_data": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680440718128
+        }
+      }
+    },
+    "我知道你甚至没有什么兴趣爱好，但现在你有了，": {
+      "我知道你甚至没有什么兴趣爱好，但现在你有了，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680535955372
+        }
+      }
+    },
+    "algorithm": {
+      "algorithm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680597123756
+        }
+      }
+    },
+    "mymodule": {
+      "mymodule": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680615415671
+        }
+      }
+    },
+    "makefile": {
+      "makefile": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680617099018
+        }
+      }
+    },
+    "netfilter": {
+      "netfilter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680684496375
+        }
+      }
+    },
+    "数据中心网络": {
+      "数据中心网络": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680696412219
+        }
+      }
+    },
+    "查看vlan配置": {
+      "查看vlan配置": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680712218104
+        }
+      }
+    },
+    "ace_AR_out": {
+      "ace_AR_out": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680833445875
+        }
+      }
+    },
+    "ace_Kernel_SW_1": {
+      "ace_Kernel_SW_1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680789875066
+        }
+      }
+    },
+    "ping测试": {
+      "ping测试": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680830442705
+        }
+      }
+    },
+    "ace_converge_SW_1": {
+      "ace_converge_SW_1": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681437003305
+        }
+      }
+    },
+    "ace_Kernel_SW_2": {
+      "ace_Kernel_SW_2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680833351374
+        }
+      }
+    },
+    "presentation": {
+      "presentation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680854859947
+        }
+      }
+    },
+    "column-id-eTQY0xGQ": {
+      "column-id-eTQY0xGQ": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1680967556990
+        }
+      }
+    },
+    "还有啥没完成？": {
+      "还有啥没完成？": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680967555934
+        }
+      }
+    },
+    "接口IP配置": {
+      "接口IP配置": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680968165245
+        }
+      }
+    },
+    "OSPF路由发布": {
+      "OSPF路由发布": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680967940790
+        }
+      }
+    },
+    "打开wireshark抓包，查看分析防火墙效果": {
+      "打开wireshark抓包，查看分析防火墙效果": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680968122944
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680968237269
+        }
+      }
+    },
+    "数据结构": {
+      "数据结构": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680971915712
+        }
+      }
+    },
+    "C++：vector": {
+      "C++：vector": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680971982323
+        }
+      }
+    },
+    "C++：stack": {
+      "C++：stack": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680971988935
+        }
+      }
+    },
+    "可以使用。": {
+      "可以使用。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680972205354
+        }
+      }
+    },
+    "数据结构：": {
+      "数据结构：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680973315444
+        }
+      }
+    },
+    "字符串匹配算法": {
+      "字符串匹配算法": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680973328052
+        }
+      }
+    },
+    "搜索与回溯算法、查找算法、贪心算法、排序、位运算、双指针、模拟、数学。": {
+      "搜索与回溯算法、查找算法、贪心算法、排序、位运算、双指针、模拟、数学。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680973360259
+        }
+      }
+    },
+    "采用类模板实现类实现，默认构造函数（无参构造）": {
+      "采用类模板实现类实现，默认构造函数（无参构造）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680973888893
+        }
+      }
+    },
+    "voctor": {
+      "voctor": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1680974433671
+        }
+      }
+    },
+    "去掉数组的最后一个数据": {
+      "去掉数组的最后一个数据": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680974560725
+        }
+      }
+    },
+    "M行N列的二维数组": {
+      "M行N列的二维数组": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680974790385
+        }
+      }
+    },
+    "c++：string": {
+      "c++：string": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680979786350
+        }
+      }
+    },
+    "从尾到头打印链表": {
+      "从尾到头打印链表": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681026326915
+        }
+      }
+    },
+    "下述格式之一：": {
+      "下述格式之一：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681027285912
+        }
+      }
+    },
+    "数据结构简介": {
+      "数据结构简介": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681031739892
+        }
+      }
+    },
+    "开始定位，一组一组显示参数": {
+      "开始定位，一组一组显示参数": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681047680928
+        }
+      }
+    },
+    "点击开始按钮，": {
+      "点击开始按钮，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681047724927
+        }
+      }
+    },
+    "kernel%20module": {
+      "kernel%20module": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681103502553
+        }
+      }
+    },
+    "Environment": {
+      "Environment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681103792485
+        }
+      }
+    },
+    "Firewall": {
+      "Firewall": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681104174881
+        }
+      }
+    },
+    "转发的向前过滤": {
+      "转发的向前过滤": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681104686809
+        }
+      }
+    },
+    "eBPF、eBPF的使用": {
+      "eBPF、eBPF的使用": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681105112496
+        }
+      }
+    },
+    "关于ARP攻击": {
+      "关于ARP攻击": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681124942445
+        }
+      }
+    },
+    "上图！平滑切换，IP地址设，": {
+      "上图！平滑切换，IP地址设，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681180465528
+        }
+      }
+    },
+    "中获取诸如pid和时间戳的信息": {
+      "中获取诸如pid和时间戳的信息": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681449216965
+        }
+      }
+    },
+    "}else{": {
+      "}else{": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681449458709
+        }
+      }
+    },
+    "data_t{": {
+      "data_t{": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681449717022
+        }
+      }
+    },
+    "trace_fields": {
+      "trace_fields": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681449827318
+        }
+      }
+    },
+    "group2": {
+      "group2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681461609502
+        }
+      }
+    },
+    "能够互通，内网PC之间可以互通可以互通。": {
+      "能够互通，内网PC之间可以互通可以互通。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681462940062
+        }
+      }
+    },
+    "vlanif": {
+      "vlanif": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681569041580
+        }
+      }
+    },
+    "outbound": {
+      "outbound": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681569399795
+        }
+      }
+    },
+    "DNS服务器，地址选择WLAN中的DNS服务器ip地址，否则无法打开网页。": {
+      "DNS服务器，地址选择WLAN中的DNS服务器ip地址，否则无法打开网页。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681569770825
+        }
+      }
+    },
+    "}，进入BGP视图。执行命令": {
+      "}，进入BGP视图。执行命令": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681571262924
+        }
+      }
+    },
+    "，进入IPv4单播地址族视图。": {
+      "，进入IPv4单播地址族视图。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681571266484
+        }
+      }
+    },
+    "对等体组基于IP前缀列表的入口路由过滤策略。": {
+      "对等体组基于IP前缀列表的入口路由过滤策略。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681571272579
+        }
+      }
+    },
+    "}，配置BGP对等体（组）使能基于地址前缀的ORF功能。": {
+      "}，配置BGP对等体（组）使能基于地址前缀的ORF功能。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681571275849
+        }
+      }
+    },
+    "BGP是一种自治系统（AS）之间的路由协议，主要用于在不同AS之间交换路由信息，例如在互联网中不同ISP之间交换路由信息。BGP可以实现非常复杂的路由策略，例如路径选择、路由筛选和路由汇聚。因此，BGP适用于需要管理和控制多个自治系统之间路由的场景，例如互联网服务提供商（ISP）之间的路由管理、多个数据中心之间的路由管理等。": {
+      "BGP是一种自治系统（AS）之间的路由协议，主要用于在不同AS之间交换路由信息，例如在互联网中不同ISP之间交换路由信息。BGP可以实现非常复杂的路由策略，例如路径选择、路由筛选和路由汇聚。因此，BGP适用于需要管理和控制多个自治系统之间路由的场景，例如互联网服务提供商（ISP）之间的路由管理、多个数据中心之间的路由管理等。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681611454227
+        }
+      }
+    },
+    "Ospf-1": {
+      "Ospf-1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681615732175
+        }
+      }
+    },
+    "00112233445566778899aabbccddeeff": {
+      "00112233445566778899aabbccddeeff": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681636944391
+        }
+      }
+    },
+    "newECB": {
+      "newECB": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681638660451
+        }
+      }
+    },
+    "f1_cbc": {
+      "f1_cbc": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681704647119
+        }
+      }
+    },
+    "file_ecb": {
+      "file_ecb": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681708402212
+        }
+      }
+    },
+    "file_ofb": {
+      "file_ofb": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681709529619
+        }
+      }
+    },
+    "0102030405060708": {
+      "0102030405060708": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681709519557
+        }
+      }
+    },
+    "file_cbc": {
+      "file_cbc": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681709533359
+        }
+      }
+    },
+    "file_cbc_d": {
+      "file_cbc_d": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681709546532
+        }
+      }
+    },
+    "学习风格：知道自己怎么学习会更有效；": {
+      "学习风格：知道自己怎么学习会更有效；": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681978744840
+        }
+      }
+    },
+    "我不是很擅长交际，在人前好像也是很活跃的样子，但一个人的时候，总是": {
+      "我不是很擅长交际，在人前好像也是很活跃的样子，但一个人的时候，总是": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682158756436
+        }
+      }
+    },
+    "VPN技术介绍": {
+      "VPN技术介绍": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682248771597
+        }
+      }
+    },
+    "oracle": {
+      "oracle": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682318081228
+        }
+      }
+    }
+  }
+}

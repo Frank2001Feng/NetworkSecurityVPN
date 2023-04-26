@@ -1,0 +1,11 @@
+{
+  "notion-like-tables:nlt-add-table": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "7d92c672b5e4b557",
+    "type": "split",
+    "children": [
+      {
+        "id": "566eb65416f923a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d7cb9d6448cd1e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebc2e7bf28d4b20f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6810a758867e24d",
+        "type": "tabs",
+        "dimension": 59.2737978410206,
+        "children": [
+          {
+            "id": "be612307ed635caf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "fb0228863eb558e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:///C:/Users/75677/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed97cff5a72d4db4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f13ecc879555e3e9",
+        "type": "tabs",
+        "dimension": 40.72620215897939,
+        "children": [
+          {
+            "id": "3b5a3d66d1423c94",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "80d86d0d55fad792",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f0921ea525eb5c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "106c0d0c38f69e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "170d21bd95f98be1",
+        "type": "tabs",
+        "dimension": 62.70853778213936,
+        "children": [
+          {
+            "id": "fc3463bfbd5f420b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "38fabf78c8d1ed41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89b3d22f180ce3c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b432b5f0778db853",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "fec0673f78293f60",
+        "type": "tabs",
+        "dimension": 37.29146221786065,
+        "children": [
+          {
+            "id": "93840ab99040a393",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d90ce9714d236438",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13129d973dd19d65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "be612307ed635caf",
+  "lastOpenFiles": [
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425200043.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425195030.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425200028.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425171712.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425171643.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425161340.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230425161353.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230423194111.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230423193302.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230423204427.png",
+    "网络与信息安全/课程设计vpn/attachments/Pasted image 20230423193739.png",
+    "网络与信息安全/课程设计vpn/大作业.md",
+    "网络与信息安全/课程设计vpn/学习VPN.md",
+    "网络与信息安全/课程设计vpn/VPN 调研.md",
+    "网络与信息安全/课程设计vpn/attachments",
+    "网络与信息安全/课程设计vpn/VPN 实验记录.md",
+    "网络与信息安全/课程设计vpn/3min汇报.md",
+    "网络与信息安全/课程设计vpn",
+    "网络与信息安全/实验二/attachments",
+    "网络与信息安全/实验二/ARP Cache Poisoning Attack Lab.md",
+    "网络与信息安全/实验二",
+    "网络与信息安全/VPN Tunnel/VPN Tunnel.md",
+    "网络与信息安全/VPN Tunnel/attachments",
+    "网络与信息安全/VPN Tunnel",
+    "网络与信息安全/TCP_Attacks Lab/TCP_Attacks Lab.md",
+    "网络与信息安全/TCP_Attacks Lab/attachments",
+    "网络与信息安全/TCP_Attacks Lab",
+    "网络与信息安全/Secret-Key Encryption Lab/Secret-Key Encryption Lab.md",
+    "网络与信息安全/Secret-Key Encryption Lab/attachments",
+    "网络与信息安全/Secret-Key Encryption Lab",
+    "网络与信息安全/Firewall Evasion/Firewall.md",
+    "网络与信息安全/网络安全.md",
+    "网络与信息安全/实验.md",
+    "大三下/网络与信息安全/课程设计vpn/VPN 调研.md",
+    "大三下/网络与信息安全/课程设计vpn/3min汇报.md",
+    "大三下/网络与信息安全/课程设计vpn/大作业.md",
+    "大三下/网络与信息安全/课程设计vpn/VPN 实验记录.md",
+    "大三下/网络与信息安全/实验二/ARP Cache Poisoning Attack Lab.md",
+    "大三下/网络与信息安全/TCP_Attacks Lab/TCP_Attacks Lab.md",
+    "大三下/数据库实践/09020334黄锦峰.md",
+    "大三下/网络与信息安全/网络安全.md",
+    "Git/Git.md",
+    "attachments/Git.md",
+    "未命名 1.canvas",
+    "未命名.md",
+    "大三下/网络与信息安全/课程设计vpn/学习VPN.md",
+    "_notion-like-tables/table-id-dTISEL.md",
+    "未命名.canvas",
+    "Canvas.canvas"
+  ]
+}

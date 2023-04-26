@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "任务分配",
+      "path": "VPN技术与远程访问安全/任务分配.md"
+    },
+    {
+      "basename": "大作业",
+      "path": "VPN技术与远程访问安全/大作业.md"
+    },
+    {
+      "basename": "学习VPN",
+      "path": "VPN技术与远程访问安全/学习VPN.md"
+    },
+    {
+      "basename": "VPN 调研",
+      "path": "VPN技术与远程访问安全/VPN 调研.md"
+    },
+    {
+      "basename": "VPN 实验记录",
+      "path": "VPN技术与远程访问安全/VPN 实验记录.md"
+    },
+    {
+      "basename": "3min汇报",
+      "path": "VPN技术与远程访问安全/3min汇报.md"
+    },
+    {
       "basename": "VPN 实验记录",
       "path": "大三下/网络与信息安全/课程设计vpn/VPN 实验记录.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "效果检验",
       "path": "大三下/CN Practice/效果检验.md"
-    },
-    {
-      "basename": "心得体会",
-      "path": "大三下/CN Practice/心得体会.md"
-    },
-    {
-      "basename": "各层配置",
-      "path": "大三下/CN Practice/各层配置.md"
-    },
-    {
-      "basename": "old-kernel1-4",
-      "path": "大三下/CN Practice/attachments/old-kernel1-4.png"
-    },
-    {
-      "basename": "kernrl2-4",
-      "path": "大三下/CN Practice/attachments/kernrl2-4.png"
-    },
-    {
-      "basename": "Kernel module",
-      "path": "大三下/Data Center Network/Kernel module.pdf"
-    },
-    {
-      "basename": "Booking",
-      "path": "大三下/软件工程/Booking.md"
     }
   ],
   "omittedPaths": [],

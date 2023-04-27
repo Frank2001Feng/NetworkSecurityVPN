@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "任务分配",
-      "path": "VPN技术与远程访问安全/任务分配.md"
+      "basename": "VPN 实验记录",
+      "path": "VPN技术与远程访问安全/VPN 实验记录.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "VPN技术与远程访问安全/VPN.pdf"
     },
     {
       "basename": "大作业",
@@ -13,12 +17,12 @@
       "path": "VPN技术与远程访问安全/学习VPN.md"
     },
     {
-      "basename": "VPN 调研",
-      "path": "VPN技术与远程访问安全/VPN 调研.md"
+      "basename": "任务分配",
+      "path": "VPN技术与远程访问安全/任务分配.md"
     },
     {
-      "basename": "VPN 实验记录",
-      "path": "VPN技术与远程访问安全/VPN 实验记录.md"
+      "basename": "VPN 调研",
+      "path": "VPN技术与远程访问安全/VPN 调研.md"
     },
     {
       "basename": "3min汇报",
@@ -195,10 +199,6 @@
     {
       "basename": "VPN Tunnel",
       "path": "大三下/网络与信息安全/VPN Tunnel/VPN Tunnel.md"
-    },
-    {
-      "basename": "效果检验",
-      "path": "大三下/CN Practice/效果检验.md"
     }
   ],
   "omittedPaths": [],

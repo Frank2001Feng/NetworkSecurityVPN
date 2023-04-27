@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "566eb65416f923a9",
+        "id": "19fefb904c91455c",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7cb9d6448cd1e0",
+            "id": "30a90935796736a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 调研.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "affc2195acaee171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VPN技术与远程访问安全/任务分配.md",
+                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VPN技术与远程访问安全/任务分配.md"
+                "file": "VPN技术与远程访问安全/VPN 实验记录.md"
               }
             }
           },
@@ -141,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VPN技术与远程访问安全/任务分配.md",
+                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VPN技术与远程访问安全/任务分配.md",
+                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,13 +211,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "affc2195acaee171",
+  "active": "30a90935796736a3",
   "lastOpenFiles": [
+    "VPN技术与远程访问安全/attachments/Pasted image 20230427165050.png",
+    "VPN技术与远程访问安全/attachments/Pasted image 20230427134033.png",
+    "VPN技术与远程访问安全/VPN.pdf",
+    "VPN技术与远程访问安全/VPN 实验记录.md",
+    "VPN技术与远程访问安全/attachments/Pasted image 20230427132734.png",
+    "VPN技术与远程访问安全/attachments/HpingC.png",
+    "VPN技术与远程访问安全/attachments/CpingH.png",
+    "VPN技术与远程访问安全/attachments/Labsetup.png",
     "VPN技术与远程访问安全/大作业.md",
     "VPN技术与远程访问安全/学习VPN.md",
     "VPN技术与远程访问安全/任务分配.md",
     "VPN技术与远程访问安全/VPN 调研.md",
-    "VPN技术与远程访问安全/VPN 实验记录.md",
+    "VPN技术与远程访问安全/个人学习报告",
     "VPN技术与远程访问安全/3min汇报.md",
     "__latexindent_temp_学报.tex",
     "学报.tex",
@@ -241,11 +236,6 @@
     "VPN技术与远程访问安全/attachments/Pasted image 20230425200028.png",
     "VPN技术与远程访问安全/attachments/Pasted image 20230425171712.png",
     "VPN技术与远程访问安全/attachments/Pasted image 20230425171643.png",
-    "VPN技术与远程访问安全/attachments/Pasted image 20230425161340.png",
-    "VPN技术与远程访问安全/attachments/Pasted image 20230425161353.png",
-    "VPN技术与远程访问安全/attachments/Pasted image 20230423194111.png",
-    "VPN技术与远程访问安全/attachments/Pasted image 20230423193302.png",
-    "VPN技术与远程访问安全/attachments/Pasted image 20230423204427.png",
     "VPN技术与远程访问安全/attachments",
     "VPN技术与远程访问安全",
     "网络与信息安全/实验二/attachments",
@@ -254,8 +244,6 @@
     "网络与信息安全/VPN Tunnel/attachments",
     "网络与信息安全/VPN Tunnel",
     "网络与信息安全/TCP_Attacks Lab/TCP_Attacks Lab.md",
-    "网络与信息安全/TCP_Attacks Lab/attachments",
-    "网络与信息安全/TCP_Attacks Lab",
     "网络与信息安全/Secret-Key Encryption Lab/Secret-Key Encryption Lab.md",
     "网络与信息安全/Firewall Evasion/Firewall.md",
     "网络与信息安全/网络安全.md",
@@ -272,7 +260,6 @@
     "attachments/Git.md",
     "未命名 1.canvas",
     "未命名.md",
-    "大三下/网络与信息安全/课程设计vpn/学习VPN.md",
     "未命名.canvas",
     "Canvas.canvas"
   ]

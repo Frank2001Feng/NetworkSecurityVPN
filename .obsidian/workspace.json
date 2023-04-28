@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
+                "file": "VPN技术与远程访问安全/3min汇报.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md"
+                "file": "VPN技术与远程访问安全/3min汇报.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
+                "file": "VPN技术与远程访问安全/3min汇报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
+                "file": "VPN技术与远程访问安全/3min汇报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,31 +211,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "30a90935796736a3",
+  "active": "be612307ed635caf",
   "lastOpenFiles": [
-    "document/VPN.docx",
+    "VPN技术与远程访问安全/任务分配.md",
+    "VPN技术与远程访问安全/3min汇报.md",
+    "VPN技术与远程访问安全/VPN 调研.md",
+    "VPN技术与远程访问安全/VPN 实验记录.md",
+    "VPN技术与远程访问安全/大作业.md",
+    "VPN技术与远程访问安全/学习VPN.md",
+    "documents/VPN.pdf",
+    "document/~$VPN.docx",
+    "VPN技术与远程访问安全/VPN.pdf",
+    "document/~$安全vpn学习报告.docx",
+    "documents/VPN.docx",
     "VPNcode/docker-compose.yml",
     "VPNcode/vpn/vpnserver.c",
     "VPNcode/vpn/vpnclient.c",
     "VPNcode/vpn/README",
     "VPNcode/vpn/Makefile",
-    "VPNcode/vpn",
-    "VPNcode/tls/cert_server/demoCA/newcerts/1001.pem",
-    "VPNcode/tls/cert_server/demoCA/newcerts/1000.pem",
-    "VPNcode/tls/cert_server/demoCA/newcerts",
-    "VPNcode/tls/cert_server/demoCA/serial.old",
     "VPN技术与远程访问安全/attachments/Pasted image 20230427165050.png",
     "VPN技术与远程访问安全/attachments/Pasted image 20230427134033.png",
-    "VPN技术与远程访问安全/VPN 实验记录.md",
     "VPN技术与远程访问安全/attachments/Pasted image 20230427132734.png",
     "VPN技术与远程访问安全/attachments/HpingC.png",
     "VPN技术与远程访问安全/attachments/CpingH.png",
     "VPN技术与远程访问安全/attachments/Labsetup.png",
-    "VPN技术与远程访问安全/大作业.md",
-    "VPN技术与远程访问安全/学习VPN.md",
-    "VPN技术与远程访问安全/任务分配.md",
-    "VPN技术与远程访问安全/VPN 调研.md",
-    "VPN技术与远程访问安全/3min汇报.md",
     "网络与信息安全/VPN/未命名.md",
     "网络与信息安全/实验二/ARP Cache Poisoning Attack Lab.md",
     "VPN技术与远程访问安全/attachments/Pasted image 20230425200043.png",

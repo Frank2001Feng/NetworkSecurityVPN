@@ -3,8 +3,13 @@
 #include <openssl/err.h>
 #include <netdb.h>
 
-#define CHK_SSL(err) if ((err) < 1) { ERR_print_errors_fp(stderr); exit(2); }
-#define CA_DIR "ca_client" 
+#define CHK_SSL(err)               \
+   if ((err) < 1)                  \
+   {                               \
+      ERR_print_errors_fp(stderr); \
+      exit(2);                     \
+   }
+#define CA_DIR "ca_client"
 
 int verify_callback(int preverify_ok, X509_STORE_CTX *x509_ctx)
 {

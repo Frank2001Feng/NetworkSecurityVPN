@@ -129,7 +129,6 @@ openssl ca -config openssl.cnf -policy policy_anything -md sha256 -days 365 -in 
 make 
 
 ```
-
 Server：
 
 ./tlsserver 
@@ -157,11 +156,26 @@ Client ：
 
 
 
+# Task 5：Authenticating the VPN client 
+
+```
+gcc -o login login.c -lcrypt
+
+sudo ./login seed dees
+```
+
+![](attachments/Pasted%20image%2020230428104706.png)
+
+
+
+
+
+
 
 
 ```
 查看端口进程
 netstat -lnp | grep :4433
 
-kill -9 《PID》
+kill -9 <PID>
 ```

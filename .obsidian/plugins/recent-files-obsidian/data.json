@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "VPN连接报告",
+      "path": "documents/VPN连接报告.pdf"
+    },
+    {
       "basename": "VPN 实验记录",
       "path": "VPN技术与远程访问安全/VPN 实验记录.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "MATLAB仿真",
       "path": "SRTP/定位/MATLAB仿真.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Secret-Key Encryption Lab",
-      "path": "大三下/网络与信息安全/Secret-Key Encryption Lab/Secret-Key Encryption Lab.md"
     }
   ],
   "omittedPaths": [],

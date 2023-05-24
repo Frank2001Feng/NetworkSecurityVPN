@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,6 +63,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1213eafb6c6b2d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -118,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md"
+                "file": "README.md"
               }
             }
           },
@@ -128,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VPN技术与远程访问安全/VPN 实验记录.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +221,8 @@
   },
   "active": "30a90935796736a3",
   "lastOpenFiles": [
+    "documents/VPN连接报告.pdf",
+    "README.md",
     "VPN技术与远程访问安全/attachments/Pasted image 20230428104706.png",
     "VPN技术与远程访问安全/3min汇报.md",
     "VPN技术与远程访问安全/VPN 实验记录.md",
@@ -241,7 +251,6 @@
     "VPN技术与远程访问安全/attachments/Pasted image 20230425200043.png",
     "VPN技术与远程访问安全/attachments/Pasted image 20230425195030.png",
     "VPN技术与远程访问安全/attachments/Pasted image 20230425200028.png",
-    "VPN技术与远程访问安全/attachments/Pasted image 20230425171712.png",
     "网络与信息安全/VPN Tunnel/VPN Tunnel.md",
     "网络与信息安全/TCP_Attacks Lab/TCP_Attacks Lab.md",
     "网络与信息安全/Secret-Key Encryption Lab/Secret-Key Encryption Lab.md",
@@ -259,7 +268,6 @@
     "Git/Git.md",
     "attachments/Git.md",
     "未命名 1.canvas",
-    "未命名.md",
     "未命名.canvas",
     "Canvas.canvas"
   ]
